@@ -1,320 +1,320 @@
-1. Earth is the third planet from the Sun.
-2. The Sun is the star at the center of the Solar System.
-3. Earth has one natural satellite called the Moon.
-4. Jupiter is the largest planet in the Solar System.
-5. Mercury is the planet closest to the Sun.
-6. Venus is the hottest planet in the Solar System on average.
-7. Mars is commonly known as the Red Planet.
-8. Saturn is famous for its prominent ring system.
-9. Uranus rotates at a very unusual angle compared with most planets.
-10. Neptune is the farthest recognized planet from the Sun.
-11. Water is essential for all known forms of life.
-12. Plants use photosynthesis to convert light energy into chemical energy.
-13. Oxygen is important for human respiration.
-14. Nitrogen makes up most of Earth's atmosphere.
-15. Carbon dioxide is used by plants during photosynthesis.
-16. The human body contains a large amount of water.
-17. The heart pumps blood through the circulatory system.
-18. The lungs help exchange oxygen and carbon dioxide.
-19. The brain is the main organ of the nervous system.
-20. The skeleton provides structural support for the human body.
-21. The adult human body normally has 206 bones.
-22. Red blood cells carry oxygen through the bloodstream.
-23. White blood cells help the body defend against infections.
-24. The stomach helps digest food.
-25. The small intestine absorbs many nutrients from food.
-26. The large intestine absorbs water and forms waste.
-27. The kidneys help filter waste from the blood.
-28. The liver performs many important chemical functions in the body.
-29. The skin is the largest organ of the human body.
-30. Muscles help the body move.
-31. Sound requires a medium through which to travel.
-32. Light can travel through a vacuum.
-33. Gravity is a force that attracts objects toward one another.
-34. The speed of light in vacuum is approximately 300,000 kilometers per second.
-35. A rainbow is produced when light interacts with water droplets.
-36. White light can be separated into different colors.
-37. A prism can separate white light into a spectrum.
-38. Electricity involves the movement of electric charge.
-39. Magnets have north and south poles.
-40. Opposite magnetic poles attract each other.
-41. Like magnetic poles repel each other.
-42. Water freezes at 0 degrees Celsius under standard atmospheric pressure.
-43. Water boils at 100 degrees Celsius under standard atmospheric pressure.
-44. Ice is the solid form of water.
-45. Steam is water in its gaseous form.
-46. The chemical formula for water is H2O.
-47. Salt is commonly composed of sodium and chlorine ions.
-48. Oxygen has the chemical symbol O.
-49. Hydrogen has the chemical symbol H.
-50. Carbon has the chemical symbol C.
-51. Gold has the chemical symbol Au.
-52. Silver has the chemical symbol Ag.
-53. Iron has the chemical symbol Fe.
-54. Copper has the chemical symbol Cu.
-55. The periodic table organizes chemical elements.
-56. An atom contains a nucleus surrounded by electrons.
-57. Protons have a positive electric charge.
-58. Electrons have a negative electric charge.
-59. Neutrons have no electric charge.
-60. Molecules are made from atoms joined together.
-61. A triangle has three sides.
-62. A square has four equal sides.
-63. A rectangle has four sides and four right angles.
-64. A circle has no straight sides.
-65. A cube has six square faces.
-66. A sphere has a curved surface.
-67. A pentagon has five sides.
-68. A hexagon has six sides.
-69. An octagon has eight sides.
-70. A right angle measures 90 degrees.
-71. A straight angle measures 180 degrees.
-72. A full circle measures 360 degrees.
-73. The value of pi is approximately 3.14159.
-74. Zero is an even number.
-75. One is neither prime nor composite.
-76. Two is the smallest prime number.
-77. Two is the only even prime number.
-78. Prime numbers have exactly two positive factors.
-79. Ten has two digits in the decimal number system.
-80. The decimal system uses ten digits from zero to nine.
-81. A kilometer contains 1,000 meters.
-82. A meter contains 100 centimeters.
-83. A centimeter contains 10 millimeters.
-84. One hour contains 60 minutes.
-85. One minute contains 60 seconds.
-86. One day normally contains 24 hours.
-87. One week contains seven days.
-88. One year normally contains 12 months.
-89. A leap year contains 366 days.
-90. February normally has 28 days.
-91. January has 31 days.
-92. April has 30 days.
-93. June has 30 days.
-94. September has 30 days.
-95. November has 30 days.
-96. A decade contains ten years.
-97. A century contains 100 years.
-98. A millennium contains 1,000 years.
-99. The Gregorian calendar is widely used around the world.
-100. Earth takes about one year to orbit the Sun.
-101. Earth rotates once approximately every 24 hours.
-102. The Moon orbits Earth.
-103. Moonlight is reflected sunlight.
-104. The phases of the Moon result from its changing position relative to Earth and the Sun.
-105. Solar eclipses occur when the Moon passes between Earth and the Sun.
-106. Lunar eclipses occur when Earth comes between the Sun and the Moon.
-107. The Milky Way is the galaxy containing the Solar System.
-108. Galaxies contain stars, gas, dust, and other matter.
-109. Stars produce energy through nuclear processes.
-110. The nearest star to Earth is the Sun.
-111. Light from the Sun takes about eight minutes to reach Earth.
-112. Space is extremely large compared with distances on Earth.
-113. Telescopes help scientists observe distant objects.
-114. Satellites can orbit planets and other celestial bodies.
-115. Artificial satellites are used for communication and observation.
-116. GPS systems use signals from satellites.
-117. Weather satellites help scientists observe Earth's atmosphere.
-118. Spacecraft can be used to explore other planets.
-119. Astronauts can experience microgravity while orbiting Earth.
-120. The International Space Station orbits Earth.
-121. Plants produce oxygen as a byproduct of photosynthesis.
-122. Trees can provide habitats for many organisms.
-123. Forests contain diverse plant and animal species.
-124. Oceans cover most of Earth's surface.
-125. The Pacific Ocean is the largest ocean.
-126. The Atlantic Ocean is the second-largest ocean.
-127. The Indian Ocean is located between Africa, Asia, Australia, and Antarctica.
-128. The Arctic Ocean is the smallest of the major oceans.
-129. Antarctica is the continent surrounding the South Pole.
-130. Africa is the second-largest continent by land area.
-131. Asia is the largest continent by land area.
-132. Australia is both a country and a continent.
-133. Europe is one of the world's continents.
-134. North America and South America are separate continents.
-135. Mount Everest is the highest mountain above sea level.
-136. The Himalayas are a major mountain range in Asia.
-137. The Sahara is the largest hot desert.
-138. The Amazon rainforest is one of the world's largest tropical rainforests.
-139. Rivers carry water across land toward lakes, seas, or oceans.
-140. Lakes are bodies of inland water surrounded by land.
-141. Glaciers contain large amounts of freshwater in frozen form.
-142. Clouds consist of tiny water droplets or ice crystals.
-143. Rain is a form of precipitation.
-144. Snow is frozen precipitation.
-145. Wind is moving air.
-146. Weather describes atmospheric conditions over a relatively short period.
-147. Climate describes long-term patterns of weather.
-148. Thunder is associated with lightning.
-149. Lightning is a powerful electrical discharge.
-150. A thermometer is used to measure temperature.
-151. A barometer measures atmospheric pressure.
-152. Anemometers can measure wind speed.
-153. A compass can be used to determine direction.
-154. A map represents geographic information.
-155. A globe is a spherical model of Earth.
-156. The equator divides Earth into Northern and Southern Hemispheres.
-157. The Prime Meridian is used as the reference for longitude.
-158. Latitude measures position north or south of the equator.
-159. Longitude measures position east or west of the Prime Meridian.
-160. Earth has two geographic poles.
-161. Bees are important pollinators.
-162. Butterflies can also pollinate flowers.
-163. Birds have feathers.
-164. Most birds lay eggs.
-165. Fish generally breathe using gills.
-166. Mammals generally produce milk for their young.
-167. Whales are mammals.
-168. Dolphins are mammals.
-169. Bats are mammals capable of powered flight.
-170. Penguins are birds that cannot fly.
-171. Frogs are amphibians.
-172. Snakes are reptiles.
-173. Turtles are reptiles.
-174. Insects have six legs.
-175. Spiders have eight legs.
-176. Ants are social insects.
-177. Honeybees live in colonies.
-178. Earthworms help improve soil structure.
-179. Coral reefs support many marine organisms.
-180. Sharks are fish.
-181. Photosynthesis occurs mainly in plant cells containing chlorophyll.
-182. Chlorophyll helps plants absorb light.
-183. Roots anchor plants and absorb water and minerals.
-184. Leaves are important organs for photosynthesis.
-185. Flowers are involved in reproduction in many plants.
-186. Seeds can develop into new plants.
-187. Fruits often develop from parts of flowers.
-188. Trees can store carbon in their tissues.
-189. Fungi are separate from plants in biological classification.
-190. Bacteria are microscopic organisms.
-191. Some bacteria are useful to humans.
-192. Yeast is a type of fungus.
-193. Microorganisms can be found in many environments.
-194. Ecosystems contain living organisms and their physical surroundings.
-195. Food chains describe feeding relationships between organisms.
-196. Producers make their own food, usually through photosynthesis.
-197. Consumers obtain energy by eating other organisms.
-198. Decomposers break down dead organic matter.
-199. Biodiversity refers to the variety of life.
-200. Conservation helps protect species and ecosystems.
-201. Computers process information using electronic circuits.
-202. A CPU is responsible for executing computer instructions.
-203. RAM provides temporary storage for active programs and data.
-204. Storage devices retain data for longer periods.
-205. A keyboard is an input device.
-206. A monitor is an output device.
-207. A printer is an output device.
-208. A mouse is commonly used as an input device.
-209. A computer network connects multiple devices.
-210. The internet is a global network of interconnected systems.
-211. A web browser is used to access websites.
-212. Search engines help users find information online.
-213. An operating system manages computer hardware and software resources.
-214. Linux is an example of an operating system.
-215. Windows is an example of an operating system.
-216. Android is a mobile operating system.
-217. Programming languages allow developers to create software.
-218. Java is a programming language.
-219. Python is a programming language.
-220. C is a programming language widely used in systems programming.
-221. Algorithms are step-by-step procedures for solving problems.
-222. Data structures organize and store data.
-223. Arrays store elements in indexed positions.
-224. Linked lists consist of connected nodes.
-225. Stacks follow the last-in-first-out principle.
-226. Queues follow the first-in-first-out principle.
-227. Trees are hierarchical data structures.
-228. Graphs consist of vertices and edges.
-229. Searching is a common operation performed on data.
-230. Sorting arranges data according to a specified order.
-231. Binary search works on sorted data.
-232. Recursion occurs when a function calls itself.
-233. A variable stores a value that can change during program execution.
-234. A constant represents a value intended not to change.
-235. A compiler translates source code into machine or intermediate code.
-236. An interpreter executes program instructions through an interpretation process.
-237. Databases are used to store and manage structured information.
-238. SQL is commonly used to work with relational databases.
-239. Encryption is used to protect information from unauthorized access.
-240. Cybersecurity focuses on protecting systems, networks, and data.
-241. Artificial intelligence involves machines performing tasks associated with intelligent behavior.
-242. Machine learning allows systems to learn patterns from data.
-243. Neural networks are computing models inspired loosely by biological neurons.
-244. Data science combines methods from statistics, computing, and domain knowledge.
-245. Cloud computing provides computing resources over networks.
-246. A server provides services or resources to other computers.
-247. A client requests services from a server.
-248. An IP address identifies a device or network interface.
-249. HTTP is a protocol used for transferring web resources.
-250. HTTPS adds encryption to HTTP connections.
-251. Renewable energy comes from sources that are naturally replenished.
-252. Solar energy comes from sunlight.
-253. Wind turbines convert wind energy into electrical energy.
-254. Hydroelectric power uses moving water to generate electricity.
-255. Geothermal energy uses heat from inside Earth.
-256. Biomass can be used as a source of energy.
-257. Fossil fuels include coal, oil, and natural gas.
-258. Coal is a fossil fuel formed from ancient organic material.
-259. Petroleum is processed into many useful fuels and products.
-260. Natural gas is mainly composed of methane.
-261. Recycling can reduce the amount of waste sent to landfills.
-262. Reusing products can reduce demand for new resources.
-263. Composting converts suitable organic waste into useful material.
-264. Water conservation helps protect freshwater resources.
-265. Forest conservation helps maintain habitats and biodiversity.
-266. Solar panels convert sunlight into electrical energy.
-267. Batteries store electrical energy in chemical form.
-268. Electric motors convert electrical energy into mechanical energy.
-269. Generators can convert mechanical energy into electrical energy.
-270. Energy efficiency means using less energy to perform a task.
-271. Steel is an alloy mainly based on iron and carbon.
-272. Aluminum is a lightweight metal.
-273. Copper conducts electricity well.
-274. Glass is commonly made from silica-rich materials.
-275. Concrete is widely used in construction.
-276. Wood is a renewable natural material when forests are responsibly managed.
-277. Paper is commonly produced from plant fibers.
-278. Plastic materials are widely used in packaging and manufacturing.
-279. Rubber can be natural or synthetic.
-280. Ceramics are made from inorganic non-metallic materials.
-281. Agriculture involves cultivating crops and raising animals.
-282. Wheat is an important cereal crop.
-283. Rice is a major food crop in many countries.
-284. Maize is also known as corn.
-285. Potatoes are underground storage organs called tubers.
-286. Tomatoes are fruits botanically.
-287. Carrots are edible roots.
-288. Legumes include beans, peas, and lentils.
-289. Irrigation supplies water to crops.
-290. Fertilizers provide nutrients that plants need for growth.
-291. Soil contains minerals, organic matter, water, air, and living organisms.
-292. Crop rotation can help maintain soil health.
-293. Pollination is important for the reproduction of many flowering plants.
-294. Agriculture depends on factors such as soil, water, temperature, and sunlight.
-295. Greenhouses allow controlled growing conditions for plants.
-296. Seeds contain structures that can develop into new plants.
-297. Harvesting is the process of collecting mature crops.
-298. Food preservation helps extend the usable life of food.
-299. Refrigeration slows the growth of many microorganisms in food.
-300. Clean water is important for human life and agriculture.
-301. The human body uses carbohydrates as an important source of energy.
-302. Proteins are important components of cells and tissues.
-303. Fats provide energy and support several biological functions.
-304. Vitamins are required in small amounts for normal body functions.
-305. Minerals are inorganic nutrients required by the body.
-306. Exercise can help maintain physical fitness.
-307. Sleep is important for normal physical and mental functioning.
-308. The brain uses a significant amount of the body's energy.
-309. Healthy ecosystems provide services such as pollination and water regulation.
-310. Oceans play an important role in Earth's climate system.
-311. Trees release water vapor through a process called transpiration.
-312. The water cycle describes the movement of water through Earth's environment.
-313. Evaporation changes liquid water into water vapor.
-314. Condensation changes water vapor into liquid water.
-315. Precipitation returns water from the atmosphere to Earth's surface.
-316. The carbon cycle describes the movement of carbon through Earth's systems.
-317. Photosynthesis removes carbon dioxide from the atmosphere.
-318. Respiration releases carbon dioxide.
-319. Natural ecosystems contain complex interactions between organisms.
-320. Scientific facts are based on observations, evidence, measurements, and testing.
+Earth is the third planet from the Sun.
+The Sun is the star at the center of the Solar System.
+Earth has one natural satellite called the Moon.
+Jupiter is the largest planet in the Solar System.
+Mercury is the planet closest to the Sun.
+Venus is the hottest planet in the Solar System on average.
+Mars is commonly known as the Red Planet.
+Saturn is famous for its prominent ring system.
+Uranus rotates at a very unusual angle compared with most planets.
+Neptune is the farthest recognized planet from the Sun.
+Water is essential for all known forms of life.
+Plants use photosynthesis to convert light energy into chemical energy.
+Oxygen is important for human respiration.
+Nitrogen makes up most of Earth's atmosphere.
+Carbon dioxide is used by plants during photosynthesis.
+The human body contains a large amount of water.
+The heart pumps blood through the circulatory system.
+The lungs help exchange oxygen and carbon dioxide.
+The brain is the main organ of the nervous system.
+The skeleton provides structural support for the human body.
+The adult human body normally has 206 bones.
+Red blood cells carry oxygen through the bloodstream.
+White blood cells help the body defend against infections.
+The stomach helps digest food.
+The small intestine absorbs many nutrients from food.
+The large intestine absorbs water and forms waste.
+The kidneys help filter waste from the blood.
+The liver performs many important chemical functions in the body.
+The skin is the largest organ of the human body.
+Muscles help the body move.
+Sound requires a medium through which to travel.
+Light can travel through a vacuum.
+Gravity is a force that attracts objects toward one another.
+The speed of light in vacuum is approximately 300,000 kilometers per second.
+A rainbow is produced when light interacts with water droplets.
+White light can be separated into different colors.
+A prism can separate white light into a spectrum.
+Electricity involves the movement of electric charge.
+Magnets have north and south poles.
+Opposite magnetic poles attract each other.
+Like magnetic poles repel each other.
+Water freezes at 0 degrees Celsius under standard atmospheric pressure.
+Water boils at 100 degrees Celsius under standard atmospheric pressure.
+Ice is the solid form of water.
+Steam is water in its gaseous form.
+The chemical formula for water is H2O.
+Salt is commonly composed of sodium and chlorine ions.
+Oxygen has the chemical symbol O.
+Hydrogen has the chemical symbol H.
+Carbon has the chemical symbol C.
+Gold has the chemical symbol Au.
+Silver has the chemical symbol Ag.
+Iron has the chemical symbol Fe.
+Copper has the chemical symbol Cu.
+The periodic table organizes chemical elements.
+An atom contains a nucleus surrounded by electrons.
+Protons have a positive electric charge.
+Electrons have a negative electric charge.
+Neutrons have no electric charge.
+Molecules are made from atoms joined together.
+A triangle has three sides.
+A square has four equal sides.
+A rectangle has four sides and four right angles.
+A circle has no straight sides.
+A cube has six square faces.
+A sphere has a curved surface.
+A pentagon has five sides.
+A hexagon has six sides.
+An octagon has eight sides.
+A right angle measures 90 degrees.
+A straight angle measures 180 degrees.
+A full circle measures 360 degrees.
+The value of pi is approximately 3.14159.
+Zero is an even number.
+One is neither prime nor composite.
+Two is the smallest prime number.
+Two is the only even prime number.
+Prime numbers have exactly two positive factors.
+Ten has two digits in the decimal number system.
+The decimal system uses ten digits from zero to nine.
+A kilometer contains 1,000 meters.
+A meter contains 100 centimeters.
+A centimeter contains 10 millimeters.
+One hour contains 60 minutes.
+One minute contains 60 seconds.
+One day normally contains 24 hours.
+One week contains seven days.
+One year normally contains 12 months.
+A leap year contains 366 days.
+February normally has 28 days.
+January has 31 days.
+April has 30 days.
+June has 30 days.
+September has 30 days.
+November has 30 days.
+A decade contains ten years.
+A century contains 100 years.
+A millennium contains 1,000 years.
+The Gregorian calendar is widely used around the world.
+Earth takes about one year to orbit the Sun.
+Earth rotates once approximately every 24 hours.
+The Moon orbits Earth.
+Moonlight is reflected sunlight.
+The phases of the Moon result from its changing position relative to Earth and the Sun.
+Solar eclipses occur when the Moon passes between Earth and the Sun.
+Lunar eclipses occur when Earth comes between the Sun and the Moon.
+The Milky Way is the galaxy containing the Solar System.
+Galaxies contain stars, gas, dust, and other matter.
+Stars produce energy through nuclear processes.
+The nearest star to Earth is the Sun.
+Light from the Sun takes about eight minutes to reach Earth.
+Space is extremely large compared with distances on Earth.
+Telescopes help scientists observe distant objects.
+Satellites can orbit planets and other celestial bodies.
+Artificial satellites are used for communication and observation.
+GPS systems use signals from satellites.
+Weather satellites help scientists observe Earth's atmosphere.
+Spacecraft can be used to explore other planets.
+Astronauts can experience microgravity while orbiting Earth.
+The International Space Station orbits Earth.
+Plants produce oxygen as a byproduct of photosynthesis.
+Trees can provide habitats for many organisms.
+Forests contain diverse plant and animal species.
+Oceans cover most of Earth's surface.
+The Pacific Ocean is the largest ocean.
+The Atlantic Ocean is the second-largest ocean.
+The Indian Ocean is located between Africa, Asia, Australia, and Antarctica.
+The Arctic Ocean is the smallest of the major oceans.
+Antarctica is the continent surrounding the South Pole.
+Africa is the second-largest continent by land area.
+Asia is the largest continent by land area.
+Australia is both a country and a continent.
+Europe is one of the world's continents.
+North America and South America are separate continents.
+Mount Everest is the highest mountain above sea level.
+The Himalayas are a major mountain range in Asia.
+The Sahara is the largest hot desert.
+The Amazon rainforest is one of the world's largest tropical rainforests.
+Rivers carry water across land toward lakes, seas, or oceans.
+Lakes are bodies of inland water surrounded by land.
+Glaciers contain large amounts of freshwater in frozen form.
+Clouds consist of tiny water droplets or ice crystals.
+Rain is a form of precipitation.
+Snow is frozen precipitation.
+Wind is moving air.
+Weather describes atmospheric conditions over a relatively short period.
+Climate describes long-term patterns of weather.
+Thunder is associated with lightning.
+Lightning is a powerful electrical discharge.
+A thermometer is used to measure temperature.
+A barometer measures atmospheric pressure.
+Anemometers can measure wind speed.
+A compass can be used to determine direction.
+A map represents geographic information.
+A globe is a spherical model of Earth.
+The equator divides Earth into Northern and Southern Hemispheres.
+The Prime Meridian is used as the reference for longitude.
+Latitude measures position north or south of the equator.
+Longitude measures position east or west of the Prime Meridian.
+Earth has two geographic poles.
+Bees are important pollinators.
+Butterflies can also pollinate flowers.
+Birds have feathers.
+Most birds lay eggs.
+Fish generally breathe using gills.
+Mammals generally produce milk for their young.
+Whales are mammals.
+Dolphins are mammals.
+Bats are mammals capable of powered flight.
+Penguins are birds that cannot fly.
+Frogs are amphibians.
+Snakes are reptiles.
+Turtles are reptiles.
+Insects have six legs.
+Spiders have eight legs.
+Ants are social insects.
+Honeybees live in colonies.
+Earthworms help improve soil structure.
+Coral reefs support many marine organisms.
+Sharks are fish.
+Photosynthesis occurs mainly in plant cells containing chlorophyll.
+Chlorophyll helps plants absorb light.
+Roots anchor plants and absorb water and minerals.
+Leaves are important organs for photosynthesis.
+Flowers are involved in reproduction in many plants.
+Seeds can develop into new plants.
+Fruits often develop from parts of flowers.
+Trees can store carbon in their tissues.
+Fungi are separate from plants in biological classification.
+Bacteria are microscopic organisms.
+Some bacteria are useful to humans.
+Yeast is a type of fungus.
+Microorganisms can be found in many environments.
+Ecosystems contain living organisms and their physical surroundings.
+Food chains describe feeding relationships between organisms.
+Producers make their own food, usually through photosynthesis.
+Consumers obtain energy by eating other organisms.
+Decomposers break down dead organic matter.
+Biodiversity refers to the variety of life.
+Conservation helps protect species and ecosystems.
+Computers process information using electronic circuits.
+A CPU is responsible for executing computer instructions.
+RAM provides temporary storage for active programs and data.
+Storage devices retain data for longer periods.
+A keyboard is an input device.
+A monitor is an output device.
+A printer is an output device.
+A mouse is commonly used as an input device.
+A computer network connects multiple devices.
+The internet is a global network of interconnected systems.
+A web browser is used to access websites.
+Search engines help users find information online.
+An operating system manages computer hardware and software resources.
+Linux is an example of an operating system.
+Windows is an example of an operating system.
+Android is a mobile operating system.
+Programming languages allow developers to create software.
+Java is a programming language.
+Python is a programming language.
+C is a programming language widely used in systems programming.
+Algorithms are step-by-step procedures for solving problems.
+Data structures organize and store data.
+Arrays store elements in indexed positions.
+Linked lists consist of connected nodes.
+Stacks follow the last-in-first-out principle.
+Queues follow the first-in-first-out principle.
+Trees are hierarchical data structures.
+Graphs consist of vertices and edges.
+Searching is a common operation performed on data.
+Sorting arranges data according to a specified order.
+Binary search works on sorted data.
+Recursion occurs when a function calls itself.
+A variable stores a value that can change during program execution.
+A constant represents a value intended not to change.
+A compiler translates source code into machine or intermediate code.
+An interpreter executes program instructions through an interpretation process.
+Databases are used to store and manage structured information.
+SQL is commonly used to work with relational databases.
+Encryption is used to protect information from unauthorized access.
+Cybersecurity focuses on protecting systems, networks, and data.
+Artificial intelligence involves machines performing tasks associated with intelligent behavior.
+Machine learning allows systems to learn patterns from data.
+Neural networks are computing models inspired loosely by biological neurons.
+Data science combines methods from statistics, computing, and domain knowledge.
+Cloud computing provides computing resources over networks.
+A server provides services or resources to other computers.
+A client requests services from a server.
+An IP address identifies a device or network interface.
+HTTP is a protocol used for transferring web resources.
+HTTPS adds encryption to HTTP connections.
+Renewable energy comes from sources that are naturally replenished.
+Solar energy comes from sunlight.
+Wind turbines convert wind energy into electrical energy.
+Hydroelectric power uses moving water to generate electricity.
+Geothermal energy uses heat from inside Earth.
+Biomass can be used as a source of energy.
+Fossil fuels include coal, oil, and natural gas.
+Coal is a fossil fuel formed from ancient organic material.
+Petroleum is processed into many useful fuels and products.
+Natural gas is mainly composed of methane.
+Recycling can reduce the amount of waste sent to landfills.
+Reusing products can reduce demand for new resources.
+Composting converts suitable organic waste into useful material.
+Water conservation helps protect freshwater resources.
+Forest conservation helps maintain habitats and biodiversity.
+Solar panels convert sunlight into electrical energy.
+Batteries store electrical energy in chemical form.
+Electric motors convert electrical energy into mechanical energy.
+Generators can convert mechanical energy into electrical energy.
+Energy efficiency means using less energy to perform a task.
+Steel is an alloy mainly based on iron and carbon.
+Aluminum is a lightweight metal.
+Copper conducts electricity well.
+Glass is commonly made from silica-rich materials.
+Concrete is widely used in construction.
+Wood is a renewable natural material when forests are responsibly managed.
+Paper is commonly produced from plant fibers.
+Plastic materials are widely used in packaging and manufacturing.
+Rubber can be natural or synthetic.
+Ceramics are made from inorganic non-metallic materials.
+Agriculture involves cultivating crops and raising animals.
+Wheat is an important cereal crop.
+Rice is a major food crop in many countries.
+Maize is also known as corn.
+Potatoes are underground storage organs called tubers.
+Tomatoes are fruits botanically.
+Carrots are edible roots.
+Legumes include beans, peas, and lentils.
+Irrigation supplies water to crops.
+Fertilizers provide nutrients that plants need for growth.
+Soil contains minerals, organic matter, water, air, and living organisms.
+Crop rotation can help maintain soil health.
+Pollination is important for the reproduction of many flowering plants.
+Agriculture depends on factors such as soil, water, temperature, and sunlight.
+Greenhouses allow controlled growing conditions for plants.
+Seeds contain structures that can develop into new plants.
+Harvesting is the process of collecting mature crops.
+Food preservation helps extend the usable life of food.
+Refrigeration slows the growth of many microorganisms in food.
+Clean water is important for human life and agriculture.
+The human body uses carbohydrates as an important source of energy.
+Proteins are important components of cells and tissues.
+Fats provide energy and support several biological functions.
+Vitamins are required in small amounts for normal body functions.
+Minerals are inorganic nutrients required by the body.
+Exercise can help maintain physical fitness.
+Sleep is important for normal physical and mental functioning.
+The brain uses a significant amount of the body's energy.
+Healthy ecosystems provide services such as pollination and water regulation.
+Oceans play an important role in Earth's climate system.
+Trees release water vapor through a process called transpiration.
+The water cycle describes the movement of water through Earth's environment.
+Evaporation changes liquid water into water vapor.
+Condensation changes water vapor into liquid water.
+Precipitation returns water from the atmosphere to Earth's surface.
+The carbon cycle describes the movement of carbon through Earth's systems.
+Photosynthesis removes carbon dioxide from the atmosphere.
+Respiration releases carbon dioxide.
+Natural ecosystems contain complex interactions between organisms.
+Scientific facts are based on observations, evidence, measurements, and testing.
